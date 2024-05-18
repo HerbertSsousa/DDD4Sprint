@@ -1,0 +1,33 @@
+2024-05-11 17:03:14 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:05:44 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:07:38 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:09:46 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:13:13 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:17:31 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:19:15 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:19:33 [grizzly-http-server-1] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:19:39 [grizzly-http-server-2] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:20:57 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
+2024-05-11 17:23:03 [grizzly-http-server-0] ERROR org.example.repositories.ProdutoRepository - Erro ao tentar pegar todos os produtos Listener refused the connection with the following error:
+ORA-12514, TNS:listener does not currently know of service requested in connect descriptor
+ 
